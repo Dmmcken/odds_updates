@@ -32,9 +32,3 @@ jobs:
           else
             echo "no data folder yet, skipping commit"
           fi
-      - name: Email report
-        run: python send_email.py
-        env:
-          EMAIL_USER: ${{ secrets.EMAIL_USER }}
-          EMAIL_APP_PASSWORD: ${{ secrets.EMAIL_APP_PASSWORD }}
-          EMAIL_TO: ${{ secrets.EMAIL_TO }}
