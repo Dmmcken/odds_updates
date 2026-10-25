@@ -1,0 +1,43 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/ky-930-RRs.pdf",
+ "fetched_at": 1792971476.5442014,
+ "sha256": "1e2f3bcf34cf03476548d645b1980c1c1819871bb9e0a20553c8c7c3401a267d",
+ "parsed": {
+  "tickets": 6240000,
+  "tiers": [
+   {
+    "prize": 550,
+    "winners": 1092,
+    "odds": 5714.29
+   },
+   {
+    "prize": 500,
+    "winners": 1560,
+    "odds": 4000
+   },
+   {
+    "prize": 200,
+    "winners": 6760,
+    "odds": 923.08
+   },
+   {
+    "prize": 150,
+    "winners": 5720,
+    "odds": 1090.91
+   },
+   {
+    "prize": 100,
+    "winners": 208000,
+    "odds": 30
+   },
+   {
+    "prize": 50,
+    "winners": 416000,
+    "odds": 15
+   }
+  ],
+  "fund": 45190600,
+  "payout_pct": 72.42,
+  "total_odds": 9.76
+ }
+}

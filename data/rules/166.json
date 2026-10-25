@@ -1,0 +1,103 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/166-Peppermint-Payout-X3-WEB-rules-1.pdf",
+ "fetched_at": 1792971537.2326887,
+ "sha256": "8169b7b800e2862aef5f3632896fab7012e43cff9ddd612ea59042b758720fd6",
+ "parsed": {
+  "tickets": 1920000,
+  "tiers": [
+   {
+    "prize": 40000,
+    "winners": 3,
+    "odds": 640000
+   },
+   {
+    "prize": 3000,
+    "winners": 16,
+    "odds": 120000
+   },
+   {
+    "prize": 2000,
+    "winners": 16,
+    "odds": 120000
+   },
+   {
+    "prize": 1000,
+    "winners": 16,
+    "odds": 120000
+   },
+   {
+    "prize": 300,
+    "winners": 16,
+    "odds": 120000
+   },
+   {
+    "prize": 200,
+    "winners": 32,
+    "odds": 60000
+   },
+   {
+    "prize": 150,
+    "winners": 16,
+    "odds": 120000
+   },
+   {
+    "prize": 100,
+    "winners": 800,
+    "odds": 2400
+   },
+   {
+    "prize": 80,
+    "winners": 800,
+    "odds": 2400
+   },
+   {
+    "prize": 70,
+    "winners": 800,
+    "odds": 2400
+   },
+   {
+    "prize": 60,
+    "winners": 800,
+    "odds": 2400
+   },
+   {
+    "prize": 50,
+    "winners": 816,
+    "odds": 2352.94
+   },
+   {
+    "prize": 30,
+    "winners": 8000,
+    "odds": 240
+   },
+   {
+    "prize": 20,
+    "winners": 57600,
+    "odds": 33.33
+   },
+   {
+    "prize": 10,
+    "winners": 19200,
+    "odds": 100
+   },
+   {
+    "prize": 9,
+    "winners": 38400,
+    "odds": 50
+   },
+   {
+    "prize": 6,
+    "winners": 96000,
+    "odds": 20
+   },
+   {
+    "prize": 3,
+    "winners": 249600,
+    "odds": 7.69
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": 4.06
+ }
+}

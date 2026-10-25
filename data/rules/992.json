@@ -1,0 +1,68 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/992-Wild-Cash-30X-Rules-WEB.pdf",
+ "fetched_at": 1792971556.1346502,
+ "sha256": "0f500587033e8fb9829ef0117f4c23f0af016d3bad27eae352e4f2d7102f9a00",
+ "parsed": {
+  "tickets": 1920000,
+  "tiers": [
+   {
+    "prize": 30000,
+    "winners": 4,
+    "odds": 480000
+   },
+   {
+    "prize": 1000,
+    "winners": 64,
+    "odds": 30000
+   },
+   {
+    "prize": 90,
+    "winners": 2912,
+    "odds": 659.34
+   },
+   {
+    "prize": 60,
+    "winners": 3200,
+    "odds": 600
+   },
+   {
+    "prize": 30,
+    "winners": 6416,
+    "odds": 299.25
+   },
+   {
+    "prize": 25,
+    "winners": 19200,
+    "odds": 100
+   },
+   {
+    "prize": 15,
+    "winners": 19200,
+    "odds": 100
+   },
+   {
+    "prize": 10,
+    "winners": 38400,
+    "odds": 50
+   },
+   {
+    "prize": 5,
+    "winners": 115200,
+    "odds": 16.67
+   },
+   {
+    "prize": 4,
+    "winners": 172800,
+    "odds": 11.11
+   },
+   {
+    "prize": 3,
+    "winners": 172800,
+    "odds": 11.11
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": 3.49
+ }
+}

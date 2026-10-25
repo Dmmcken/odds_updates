@@ -1,0 +1,63 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/120-Electric-Diamonds-WEB-Rules-9.26.25.pdf",
+ "fetched_at": 1792971489.7107687,
+ "sha256": "e4ad3cf4376157d603ebdf986fae5d2c139768404923a4d5c78133646e19968d",
+ "parsed": {
+  "tickets": 1920000,
+  "tiers": [
+   {
+    "prize": 50000,
+    "winners": 3,
+    "odds": 640000
+   },
+   {
+    "prize": 1000,
+    "winners": 64,
+    "odds": 30000
+   },
+   {
+    "prize": 100,
+    "winners": 384,
+    "odds": 5000
+   },
+   {
+    "prize": 50,
+    "winners": 1600,
+    "odds": 1200
+   },
+   {
+    "prize": 30,
+    "winners": 19984,
+    "odds": 96.08
+   },
+   {
+    "prize": 20,
+    "winners": 38400,
+    "odds": 50
+   },
+   {
+    "prize": 15,
+    "winners": 19200,
+    "odds": 100
+   },
+   {
+    "prize": 10,
+    "winners": 38400,
+    "odds": 50
+   },
+   {
+    "prize": 5,
+    "winners": 153600,
+    "odds": 12.5
+   },
+   {
+    "prize": 3,
+    "winners": 211200,
+    "odds": 9.09
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": 3.98
+ }
+}

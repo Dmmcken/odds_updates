@@ -1,0 +1,63 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/994-Bluegrass-Blowout-WEB.pdf",
+ "fetched_at": 1792971474.5970294,
+ "sha256": "1a99b481cf1e9805362bad7ef0545d71c78597694ecc9a2e21bf48a726df5957",
+ "parsed": {
+  "tickets": 6240000,
+  "tiers": [
+   {
+    "prize": 200000,
+    "winners": 13,
+    "odds": 480000
+   },
+   {
+    "prize": 5000,
+    "winners": 60,
+    "odds": 104000
+   },
+   {
+    "prize": 1000,
+    "winners": 1040,
+    "odds": 6000
+   },
+   {
+    "prize": 500,
+    "winners": 7020,
+    "odds": 888.89
+   },
+   {
+    "prize": 250,
+    "winners": 15288,
+    "odds": 408.16
+   },
+   {
+    "prize": 100,
+    "winners": 41600,
+    "odds": 150
+   },
+   {
+    "prize": 50,
+    "winners": 62400,
+    "odds": 100
+   },
+   {
+    "prize": 25,
+    "winners": 416000,
+    "odds": 15
+   },
+   {
+    "prize": 15,
+    "winners": 208000,
+    "odds": 30
+   },
+   {
+    "prize": 10,
+    "winners": 1248000,
+    "odds": 5
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": 3.12
+ }
+}

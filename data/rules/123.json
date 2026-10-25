@@ -1,0 +1,28 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/123-Mega-Bonus-Blowout-WEB-Rules-9.26.25.pdf",
+ "fetched_at": 1792971517.4574945,
+ "sha256": "0ea0e05af84c0fa41a80a916c62cf619dc76b3f9b818a2f3f09327895040fa4c",
+ "parsed": {
+  "tickets": 1200000,
+  "tiers": [
+   {
+    "prize": 2000,
+    "winners": 820,
+    "odds": 1463.41
+   },
+   {
+    "prize": 200,
+    "winners": 40010,
+    "odds": 29.99
+   },
+   {
+    "prize": 100,
+    "winners": 80000,
+    "odds": 15
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": 9.93
+ }
+}

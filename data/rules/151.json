@@ -1,0 +1,68 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/151-$20-Set-For-Life-WEB-Rules.pdf",
+ "fetched_at": 1792971447.6332283,
+ "sha256": "d65aacb51162a835de643db2f3d4bcbd0e9a269700ad4f83d7aaf77372acc322",
+ "parsed": {
+  "tickets": 2400000,
+  "tiers": [
+   {
+    "prize": 1372000,
+    "winners": 3,
+    "odds": 800000
+   },
+   {
+    "prize": 20000,
+    "winners": 20,
+    "odds": 120000
+   },
+   {
+    "prize": 1000,
+    "winners": 500,
+    "odds": 4800
+   },
+   {
+    "prize": 500,
+    "winners": 1000,
+    "odds": 2400
+   },
+   {
+    "prize": 300,
+    "winners": 5220,
+    "odds": 459.77
+   },
+   {
+    "prize": 200,
+    "winners": 29980,
+    "odds": 80.05
+   },
+   {
+    "prize": 100,
+    "winners": 30000,
+    "odds": 80
+   },
+   {
+    "prize": 50,
+    "winners": 80000,
+    "odds": 30
+   },
+   {
+    "prize": 40,
+    "winners": 80000,
+    "odds": 30
+   },
+   {
+    "prize": 30,
+    "winners": 240000,
+    "odds": 10
+   },
+   {
+    "prize": 20,
+    "winners": 240000,
+    "odds": 10
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": 3.4
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/165-Holiday-Gold-Winter-Green-Festive-Red-WEB-rules.pdf",
+ "fetched_at": 1792971499.229509,
+ "sha256": "abd95a727037ed13c9559932d60ca3a1ffd636e2ef05a4f9f9a204dc9c706ba5",
+ "parsed": {
+  "tickets": 2400000,
+  "tiers": [
+   {
+    "prize": 20000,
+    "winners": 3,
+    "odds": 800000
+   },
+   {
+    "prize": 500,
+    "winners": 100,
+    "odds": 24000
+   },
+   {
+    "prize": 50,
+    "winners": 600,
+    "odds": 4000
+   },
+   {
+    "prize": 40,
+    "winners": 10300,
+    "odds": 233.01
+   },
+   {
+    "prize": 20,
+    "winners": 48000,
+    "odds": 50
+   },
+   {
+    "prize": 10,
+    "winners": 32000,
+    "odds": 75
+   },
+   {
+    "prize": 5,
+    "winners": 128000,
+    "odds": 18.75
+   },
+   {
+    "prize": 2,
+    "winners": 288000,
+    "odds": 8.33
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": 4.73
+ }
+}

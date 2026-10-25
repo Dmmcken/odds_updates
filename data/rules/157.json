@@ -1,0 +1,63 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/157-Fun-5s-WEB.pdf",
+ "fetched_at": 1792971494.3470056,
+ "sha256": "9f10dc3c830b18c2980dacc07fe679b7295380dc754e0f3c969c79fa6ef7593d",
+ "parsed": {
+  "tickets": 4320000,
+  "tiers": [
+   {
+    "prize": 75000,
+    "winners": 4,
+    "odds": 1080000
+   },
+   {
+    "prize": 2500,
+    "winners": 108,
+    "odds": 40000
+   },
+   {
+    "prize": 1000,
+    "winners": 360,
+    "odds": 12000
+   },
+   {
+    "prize": 500,
+    "winners": 3600,
+    "odds": 1200
+   },
+   {
+    "prize": 100,
+    "winners": 9432,
+    "odds": 458.02
+   },
+   {
+    "prize": 50,
+    "winners": 43200,
+    "odds": 100
+   },
+   {
+    "prize": 25,
+    "winners": 43200,
+    "odds": 100
+   },
+   {
+    "prize": 15,
+    "winners": 129600,
+    "odds": 33.33
+   },
+   {
+    "prize": 10,
+    "winners": 345600,
+    "odds": 12.5
+   },
+   {
+    "prize": 5,
+    "winners": 561600,
+    "odds": 7.69
+   }
+  ],
+  "fund": 15121200,
+  "payout_pct": 70.01,
+  "total_odds": 3.8
+ }
+}

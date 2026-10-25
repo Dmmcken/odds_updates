@@ -1,0 +1,58 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/113-$100000-Jackpot-Rules-WEB.pdf",
+ "fetched_at": 1792971429.8406353,
+ "sha256": "12126c8c1948f36cc08547c15ef7077dc8cd5920b87910a14db2cd94a39ca803",
+ "parsed": {
+  "tickets": 4080000,
+  "tiers": [
+   {
+    "prize": 100000,
+    "winners": 4,
+    "odds": 1020000
+   },
+   {
+    "prize": 1000,
+    "winners": 204,
+    "odds": 20000
+   },
+   {
+    "prize": 500,
+    "winners": 408,
+    "odds": 10000
+   },
+   {
+    "prize": 200,
+    "winners": 6868,
+    "odds": 594.06
+   },
+   {
+    "prize": 100,
+    "winners": 11356,
+    "odds": 359.28
+   },
+   {
+    "prize": 50,
+    "winners": 31586,
+    "odds": 129.17
+   },
+   {
+    "prize": 20,
+    "winners": 122400,
+    "odds": 33.33
+   },
+   {
+    "prize": 10,
+    "winners": 448800,
+    "odds": 9.09
+   },
+   {
+    "prize": 5,
+    "winners": 489600,
+    "odds": 8.33
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": 3.67
+ }
+}

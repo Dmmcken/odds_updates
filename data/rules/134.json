@@ -1,0 +1,58 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/134-Bingo-Crossword-WEB-Rules.pdf",
+ "fetched_at": 1792971471.052628,
+ "sha256": "f6c282317740a7c746fab291668c1d915b71581438f509b015d1c06da2fef5ef",
+ "parsed": {
+  "tickets": 1920000,
+  "tiers": [
+   {
+    "prize": 40000,
+    "winners": 4,
+    "odds": 480000
+   },
+   {
+    "prize": 600,
+    "winners": 80,
+    "odds": 24000
+   },
+   {
+    "prize": 100,
+    "winners": 160,
+    "odds": 12000
+   },
+   {
+    "prize": 40,
+    "winners": 12896,
+    "odds": 148.88
+   },
+   {
+    "prize": 20,
+    "winners": 19200,
+    "odds": 100
+   },
+   {
+    "prize": 15,
+    "winners": 38400,
+    "odds": 50
+   },
+   {
+    "prize": 10,
+    "winners": 76800,
+    "odds": 25
+   },
+   {
+    "prize": 5,
+    "winners": 134400,
+    "odds": 14.29
+   },
+   {
+    "prize": 3,
+    "winners": 211200,
+    "odds": 9.09
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": 3.89
+ }
+}

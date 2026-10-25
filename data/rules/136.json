@@ -1,0 +1,48 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/136-King-of-Spades-WEB-Rules.pdf",
+ "fetched_at": 1792971509.1794112,
+ "sha256": "6cabeae6fbc732d83b2424e75eb046c004b1126f39dc6e032a025da2d1d55af5",
+ "parsed": {
+  "tickets": 4080000,
+  "tiers": [
+   {
+    "prize": 500,
+    "winners": 6120,
+    "odds": 666.67
+   },
+   {
+    "prize": 100,
+    "winners": 5440,
+    "odds": 750
+   },
+   {
+    "prize": 40,
+    "winners": 42500,
+    "odds": 96
+   },
+   {
+    "prize": 20,
+    "winners": 81600,
+    "odds": 50
+   },
+   {
+    "prize": 15,
+    "winners": 81600,
+    "odds": 50
+   },
+   {
+    "prize": 10,
+    "winners": 448800,
+    "odds": 9.09
+   },
+   {
+    "prize": 5,
+    "winners": 326400,
+    "odds": 12.5
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": 4.11
+ }
+}

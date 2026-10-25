@@ -1,0 +1,58 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/169-$5-Million-Money-Maker-WEB-rules.pdf",
+ "fetched_at": 1792971459.386871,
+ "sha256": "8d64f18fcc523d5cda7e0ef654c78ac70af603ba867d509e21239fa897c992a4",
+ "parsed": {
+  "tickets": 2160000,
+  "tiers": [
+   {
+    "prize": 100000,
+    "winners": 4,
+    "odds": 540000
+   },
+   {
+    "prize": 50000,
+    "winners": 4,
+    "odds": 540000
+   },
+   {
+    "prize": 25000,
+    "winners": 12,
+    "odds": 180000
+   },
+   {
+    "prize": 10000,
+    "winners": 72,
+    "odds": 30000
+   },
+   {
+    "prize": 5000,
+    "winners": 162,
+    "odds": 13333.33
+   },
+   {
+    "prize": 1000,
+    "winners": 1530,
+    "odds": 1411.76
+   },
+   {
+    "prize": 500,
+    "winners": 18486,
+    "odds": 116.85
+   },
+   {
+    "prize": 200,
+    "winners": 63000,
+    "odds": 34.29
+   },
+   {
+    "prize": 100,
+    "winners": 540000,
+    "odds": 4
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": 3.47
+ }
+}

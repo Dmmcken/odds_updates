@@ -1,0 +1,68 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/105-Wild-7s-Rules-WEB.pdf",
+ "fetched_at": 1792971549.5220904,
+ "sha256": "3b01e9514a0026cc97cae85fa397c06156a5a98a287cd22ddbf7eb76bb154507",
+ "parsed": {
+  "tickets": 4080000,
+  "tiers": [
+   {
+    "prize": 75000,
+    "winners": 4,
+    "odds": 1020000
+   },
+   {
+    "prize": 750,
+    "winners": 136,
+    "odds": 30000
+   },
+   {
+    "prize": 500,
+    "winners": 204,
+    "odds": 20000
+   },
+   {
+    "prize": 250,
+    "winners": 680,
+    "odds": 6000
+   },
+   {
+    "prize": 100,
+    "winners": 2040,
+    "odds": 2000
+   },
+   {
+    "prize": 75,
+    "winners": 9520,
+    "odds": 428.57
+   },
+   {
+    "prize": 50,
+    "winners": 27200,
+    "odds": 150
+   },
+   {
+    "prize": 30,
+    "winners": 10370,
+    "odds": 393.44
+   },
+   {
+    "prize": 20,
+    "winners": 204000,
+    "odds": 20
+   },
+   {
+    "prize": 10,
+    "winners": 489600,
+    "odds": 8.33
+   },
+   {
+    "prize": 5,
+    "winners": 408000,
+    "odds": 10
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": 3.54
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/116-Lucky-Streak-Rules-WEB.pdf",
+ "fetched_at": 1792971512.5058205,
+ "sha256": "068753f5049592d2f276ced5d7a1d5e048b09aa6ebcc4731a30a1b400cafc7f6",
+ "parsed": {
+  "tickets": 1200000,
+  "tiers": [
+   {
+    "prize": 750000,
+    "winners": 2,
+    "odds": 600000
+   },
+   {
+    "prize": 10000,
+    "winners": 15,
+    "odds": 80000
+   },
+   {
+    "prize": 1000,
+    "winners": 150,
+    "odds": 8000
+   },
+   {
+    "prize": 500,
+    "winners": 1250,
+    "odds": 960
+   },
+   {
+    "prize": 250,
+    "winners": 3000,
+    "odds": 400
+   },
+   {
+    "prize": 100,
+    "winners": 12650,
+    "odds": 94.86
+   },
+   {
+    "prize": 75,
+    "winners": 40000,
+    "odds": 30
+   },
+   {
+    "prize": 50,
+    "winners": 40000,
+    "odds": 30
+   },
+   {
+    "prize": 25,
+    "winners": 200000,
+    "odds": 6
+   },
+   {
+    "prize": 20,
+    "winners": 160000,
+    "odds": 7.5
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": 2.63
+ }
+}

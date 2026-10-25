@@ -1,0 +1,58 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/139-$750000-Extravaganza-WEB-Rules.pdf",
+ "fetched_at": 1792971464.5153315,
+ "sha256": "9f90791a982de8d20bb53d590686209d64459f098e9a12786ada2ef4693f8046",
+ "parsed": {
+  "tickets": 1200000,
+  "tiers": [
+   {
+    "prize": 750000,
+    "winners": 2,
+    "odds": 600000
+   },
+   {
+    "prize": 5000,
+    "winners": 45,
+    "odds": 26666.67
+   },
+   {
+    "prize": 1000,
+    "winners": 900,
+    "odds": 1333.33
+   },
+   {
+    "prize": 500,
+    "winners": 2600,
+    "odds": 461.54
+   },
+   {
+    "prize": 200,
+    "winners": 4590,
+    "odds": 261.44
+   },
+   {
+    "prize": 100,
+    "winners": 10000,
+    "odds": 120
+   },
+   {
+    "prize": 60,
+    "winners": 20000,
+    "odds": 60
+   },
+   {
+    "prize": 50,
+    "winners": 20000,
+    "odds": 60
+   },
+   {
+    "prize": 40,
+    "winners": 240000,
+    "odds": 5
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": 4.02
+ }
+}

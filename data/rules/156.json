@@ -1,0 +1,68 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/156-Witches-Brew-Bucks-WEB.pdf",
+ "fetched_at": 1792971563.3606105,
+ "sha256": "088832018854c738f114789fc67e03d26f2b7f50fe526aba71b132cb4749bfa6",
+ "parsed": {
+  "tickets": 14400000,
+  "tiers": [
+   {
+    "prize": 30000,
+    "winners": 3,
+    "odds": 480000
+   },
+   {
+    "prize": 2000,
+    "winners": 24,
+    "odds": 60000
+   },
+   {
+    "prize": 500,
+    "winners": 96,
+    "odds": 15000
+   },
+   {
+    "prize": 300,
+    "winners": 192,
+    "odds": 7500
+   },
+   {
+    "prize": 100,
+    "winners": 1020,
+    "odds": 1411.76
+   },
+   {
+    "prize": 50,
+    "winners": 3600,
+    "odds": 400
+   },
+   {
+    "prize": 30,
+    "winners": 14400,
+    "odds": 100
+   },
+   {
+    "prize": 20,
+    "winners": 14400,
+    "odds": 100
+   },
+   {
+    "prize": 15,
+    "winners": 28800,
+    "odds": 50
+   },
+   {
+    "prize": 5,
+    "winners": 100800,
+    "odds": 14.29
+   },
+   {
+    "prize": 3,
+    "winners": 216000,
+    "odds": 6.67
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": 3.8
+ }
+}

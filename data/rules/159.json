@@ -1,0 +1,58 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/159-Chills-Bills-WEB.pdf",
+ "fetched_at": 1792971481.5588984,
+ "sha256": "a3e52e281b0b8a2b06cb3aa66c968ac986b0f40df4bc6a807763edcac42ee5db",
+ "parsed": {
+  "tickets": 2160000,
+  "tiers": [
+   {
+    "prize": 50000,
+    "winners": 3,
+    "odds": 720000
+   },
+   {
+    "prize": 500,
+    "winners": 378,
+    "odds": 5714.29
+   },
+   {
+    "prize": 200,
+    "winners": 1044,
+    "odds": 2068.97
+   },
+   {
+    "prize": 100,
+    "winners": 6030,
+    "odds": 358.21
+   },
+   {
+    "prize": 50,
+    "winners": 35316,
+    "odds": 61.16
+   },
+   {
+    "prize": 20,
+    "winners": 21600,
+    "odds": 100
+   },
+   {
+    "prize": 15,
+    "winners": 64800,
+    "odds": 33.33
+   },
+   {
+    "prize": 10,
+    "winners": 194400,
+    "odds": 11.11
+   },
+   {
+    "prize": 5,
+    "winners": 259200,
+    "odds": 8.33
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": 3.71
+ }
+}

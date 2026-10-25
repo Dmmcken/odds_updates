@@ -1,0 +1,53 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/KY-841-RRs.pdf",
+ "fetched_at": 1792971432.679025,
+ "sha256": "fbdc0fc24f427d73c022c3d440ed492ebf30ea08db1cdb4124a6935cd3970259",
+ "parsed": {
+  "tickets": 2880000,
+  "tiers": [
+   {
+    "prize": 200000,
+    "winners": 3,
+    "odds": 960000
+   },
+   {
+    "prize": 1000,
+    "winners": 5280,
+    "odds": 545.45
+   },
+   {
+    "prize": 100,
+    "winners": 12480,
+    "odds": 230.77
+   },
+   {
+    "prize": 50,
+    "winners": 48000,
+    "odds": 60
+   },
+   {
+    "prize": 30,
+    "winners": 48000,
+    "odds": 60
+   },
+   {
+    "prize": 20,
+    "winners": 96000,
+    "odds": 30
+   },
+   {
+    "prize": 15,
+    "winners": 192000,
+    "odds": 15
+   },
+   {
+    "prize": 10,
+    "winners": 480000,
+    "odds": 6
+   }
+  ],
+  "fund": 20568000,
+  "payout_pct": 71.42,
+  "total_odds": 3.27
+ }
+}

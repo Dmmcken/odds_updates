@@ -1,0 +1,58 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/141-$200000-Max-WEB-Rules.pdf",
+ "fetched_at": 1792971444.1167035,
+ "sha256": "930aa95f9f454d414fb23fb49cfaa735c77e453dcd354f8bcf4597bf7d850ce9",
+ "parsed": {
+  "tickets": 2040000,
+  "tiers": [
+   {
+    "prize": 200000,
+    "winners": 3,
+    "odds": 680000
+   },
+   {
+    "prize": 1000,
+    "winners": 1020,
+    "odds": 2000
+   },
+   {
+    "prize": 500,
+    "winners": 1003,
+    "odds": 2033.9
+   },
+   {
+    "prize": 200,
+    "winners": 3672,
+    "odds": 555.56
+   },
+   {
+    "prize": 100,
+    "winners": 11900,
+    "odds": 171.43
+   },
+   {
+    "prize": 50,
+    "winners": 68000,
+    "odds": 30
+   },
+   {
+    "prize": 30,
+    "winners": 34000,
+    "odds": 60
+   },
+   {
+    "prize": 20,
+    "winners": 204000,
+    "odds": 10
+   },
+   {
+    "prize": 10,
+    "winners": 204000,
+    "odds": 10
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": 3.87
+ }
+}

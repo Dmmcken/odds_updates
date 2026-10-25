@@ -1,0 +1,58 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/146-Cash-Overload-WEB-Rules.pdf",
+ "fetched_at": 1792971479.9531884,
+ "sha256": "5ecd689de365bcb958fb960205e1c84ce9ee1d2568dc1e5fe03f2d466c6080f3",
+ "parsed": {
+  "tickets": 4080000,
+  "tiers": [
+   {
+    "prize": 50000,
+    "winners": 4,
+    "odds": 1020000
+   },
+   {
+    "prize": 500,
+    "winners": 8092,
+    "odds": 504.2
+   },
+   {
+    "prize": 100,
+    "winners": 5848,
+    "odds": 697.67
+   },
+   {
+    "prize": 50,
+    "winners": 13600,
+    "odds": 300
+   },
+   {
+    "prize": 30,
+    "winners": 27200,
+    "odds": 150
+   },
+   {
+    "prize": 20,
+    "winners": 40800,
+    "odds": 100
+   },
+   {
+    "prize": 15,
+    "winners": 81600,
+    "odds": 50
+   },
+   {
+    "prize": 10,
+    "winners": 367200,
+    "odds": 11.11
+   },
+   {
+    "prize": 5,
+    "winners": 448800,
+    "odds": 9.09
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": 4.11
+ }
+}

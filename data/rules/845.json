@@ -1,0 +1,58 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/845-Payday-Multiplier-2024-WEB.pdf",
+ "fetched_at": 1792971532.7037024,
+ "sha256": "81ec50059a203f8cdbc550dd5cce3158f31c88f99ceab8a1f6548befc49baa4f",
+ "parsed": {
+  "tickets": 3120000,
+  "tiers": [
+   {
+    "prize": 30000,
+    "winners": 4,
+    "odds": 780000
+   },
+   {
+    "prize": 300,
+    "winners": 104,
+    "odds": 30000
+   },
+   {
+    "prize": 200,
+    "winners": 1248,
+    "odds": 2500
+   },
+   {
+    "prize": 100,
+    "winners": 4160,
+    "odds": 750
+   },
+   {
+    "prize": 30,
+    "winners": 20800,
+    "odds": 150
+   },
+   {
+    "prize": 25,
+    "winners": 20800,
+    "odds": 150
+   },
+   {
+    "prize": 10,
+    "winners": 62400,
+    "odds": 50
+   },
+   {
+    "prize": 4,
+    "winners": 124800,
+    "odds": 25
+   },
+   {
+    "prize": 2,
+    "winners": 436800,
+    "odds": 7.14
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": 4.65
+ }
+}

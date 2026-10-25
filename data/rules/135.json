@@ -1,0 +1,63 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/135-KY-Humane-Society-WEB-Rules.pdf",
+ "fetched_at": 1792971507.6804492,
+ "sha256": "f67f6aa3e061259411e49d7c2927204dc1962b51e8902091dfc387705d9f983e",
+ "parsed": {
+  "tickets": 2040000,
+  "tiers": [
+   {
+    "prize": 30000,
+    "winners": 3,
+    "odds": 680000
+   },
+   {
+    "prize": 500,
+    "winners": 68,
+    "odds": 30000
+   },
+   {
+    "prize": 200,
+    "winners": 85,
+    "odds": 24000
+   },
+   {
+    "prize": 100,
+    "winners": 306,
+    "odds": 6666.67
+   },
+   {
+    "prize": 50,
+    "winners": 476,
+    "odds": 4285.71
+   },
+   {
+    "prize": 30,
+    "winners": 3689,
+    "odds": 553
+   },
+   {
+    "prize": 20,
+    "winners": 27200,
+    "odds": 75
+   },
+   {
+    "prize": 10,
+    "winners": 54400,
+    "odds": 37.5
+   },
+   {
+    "prize": 5,
+    "winners": 163200,
+    "odds": 12.5
+   },
+   {
+    "prize": 2,
+    "winners": 190400,
+    "odds": 10.71
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": 4.64
+ }
+}

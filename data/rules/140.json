@@ -1,0 +1,63 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/140-Super-7s-WEB-Rules.pdf",
+ "fetched_at": 1792971546.3806856,
+ "sha256": "cb9b2b460384327d1c8fdd4a1a73d82b18144ba43c783046ade375ae899adc9e",
+ "parsed": {
+  "tickets": 1920000,
+  "tiers": [
+   {
+    "prize": 50000,
+    "winners": 3,
+    "odds": 640000
+   },
+   {
+    "prize": 1000,
+    "winners": 48,
+    "odds": 40000
+   },
+   {
+    "prize": 100,
+    "winners": 672,
+    "odds": 2857.14
+   },
+   {
+    "prize": 50,
+    "winners": 1920,
+    "odds": 1000
+   },
+   {
+    "prize": 30,
+    "winners": 10672,
+    "odds": 179.91
+   },
+   {
+    "prize": 20,
+    "winners": 57600,
+    "odds": 33.33
+   },
+   {
+    "prize": 15,
+    "winners": 19200,
+    "odds": 100
+   },
+   {
+    "prize": 10,
+    "winners": 38400,
+    "odds": 50
+   },
+   {
+    "prize": 5,
+    "winners": 115200,
+    "odds": 16.67
+   },
+   {
+    "prize": 3,
+    "winners": 230400,
+    "odds": 8.33
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": 4.05
+ }
+}

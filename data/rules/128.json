@@ -1,0 +1,53 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/128-Deluxe-Gold-WEB-Rules-9.18.25.pdf",
+ "fetched_at": 1792971483.2475786,
+ "sha256": "d5cd4568f663fa7f9520ea6c0b37519d09a06c1f0dc19e57fcdd344792fcc462",
+ "parsed": {
+  "tickets": 1080000,
+  "tiers": [
+   {
+    "prize": 25000,
+    "winners": 8,
+    "odds": 135000
+   },
+   {
+    "prize": 5000,
+    "winners": 90,
+    "odds": 12000
+   },
+   {
+    "prize": 3000,
+    "winners": 108,
+    "odds": 10000
+   },
+   {
+    "prize": 1000,
+    "winners": 1125,
+    "odds": 960
+   },
+   {
+    "prize": 500,
+    "winners": 2601,
+    "odds": 415.22
+   },
+   {
+    "prize": 200,
+    "winners": 11250,
+    "odds": 96
+   },
+   {
+    "prize": 100,
+    "winners": 45000,
+    "odds": 24
+   },
+   {
+    "prize": 60,
+    "winners": 216000,
+    "odds": 5
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": 3.91
+ }
+}

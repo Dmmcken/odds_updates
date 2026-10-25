@@ -1,0 +1,58 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/158-$200000-Wild-Cherries-WEB.pdf",
+ "fetched_at": 1792971445.815815,
+ "sha256": "042f7d8f5486e7af5ec5a712f9198b108fca8e4fec2c3ada49069703e33e6ae9",
+ "parsed": {
+  "tickets": 2400000,
+  "tiers": [
+   {
+    "prize": 200000,
+    "winners": 3,
+    "odds": 800000
+   },
+   {
+    "prize": 5000,
+    "winners": 60,
+    "odds": 40000
+   },
+   {
+    "prize": 1000,
+    "winners": 320,
+    "odds": 7500
+   },
+   {
+    "prize": 500,
+    "winners": 1920,
+    "odds": 1250
+   },
+   {
+    "prize": 200,
+    "winners": 9800,
+    "odds": 244.9
+   },
+   {
+    "prize": 100,
+    "winners": 7200,
+    "odds": 333.33
+   },
+   {
+    "prize": 50,
+    "winners": 26000,
+    "odds": 92.31
+   },
+   {
+    "prize": 25,
+    "winners": 200000,
+    "odds": 12
+   },
+   {
+    "prize": 15,
+    "winners": 400000,
+    "odds": 6
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": null
+ }
+}

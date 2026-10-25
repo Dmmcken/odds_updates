@@ -1,0 +1,53 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/944-HIT-$250.pdf",
+ "fetched_at": 1792971497.5844262,
+ "sha256": "8819e8b22ddef735970901529826c6b372aa07e992794031c8a6f48530cb7534",
+ "parsed": {
+  "tickets": 4080000,
+  "tiers": [
+   {
+    "prize": 250,
+    "winners": 2000,
+    "odds": 2040
+   },
+   {
+    "prize": 100,
+    "winners": 13192,
+    "odds": 309.28
+   },
+   {
+    "prize": 50,
+    "winners": 40800,
+    "odds": 100
+   },
+   {
+    "prize": 30,
+    "winners": 40800,
+    "odds": 100
+   },
+   {
+    "prize": 20,
+    "winners": 40800,
+    "odds": 100
+   },
+   {
+    "prize": 15,
+    "winners": 122400,
+    "odds": 33.33
+   },
+   {
+    "prize": 10,
+    "winners": 408000,
+    "odds": 10
+   },
+   {
+    "prize": 5,
+    "winners": 489600,
+    "odds": 8.33
+   }
+  ],
+  "fund": 14263200,
+  "payout_pct": 69.92,
+  "total_odds": 3.52
+ }
+}

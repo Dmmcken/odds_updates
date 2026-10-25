@@ -1,0 +1,58 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/103-Double-Up-Rules-WEB.pdf",
+ "fetched_at": 1792971487.9966488,
+ "sha256": "58152a1ad02e58eaf04eb217cb97617870f19f72dda61700dcee2394c3c9c064",
+ "parsed": {
+  "tickets": 1200000,
+  "tiers": [
+   {
+    "prize": 500000,
+    "winners": 3,
+    "odds": 400000
+   },
+   {
+    "prize": 5000,
+    "winners": 36,
+    "odds": 33333.33
+   },
+   {
+    "prize": 1000,
+    "winners": 180,
+    "odds": 6666.67
+   },
+   {
+    "prize": 500,
+    "winners": 500,
+    "odds": 2400
+   },
+   {
+    "prize": 100,
+    "winners": 4560,
+    "odds": 263.16
+   },
+   {
+    "prize": 80,
+    "winners": 22500,
+    "odds": 53.33
+   },
+   {
+    "prize": 60,
+    "winners": 30000,
+    "odds": 40
+   },
+   {
+    "prize": 50,
+    "winners": 37500,
+    "odds": 32
+   },
+   {
+    "prize": 40,
+    "winners": 240000,
+    "odds": 5
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": 3.58
+ }
+}

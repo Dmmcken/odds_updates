@@ -1,0 +1,28 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/160-Maximum-Money-Blowout-WEB.pdf",
+ "fetched_at": 1792971515.7363098,
+ "sha256": "c38a453a501e2cb58f5c37b4c06f8eade715f764786edc1458e4ff24ff1821c8",
+ "parsed": {
+  "tickets": 2400000,
+  "tiers": [
+   {
+    "prize": 2000,
+    "winners": 1640,
+    "odds": 1463.41
+   },
+   {
+    "prize": 200,
+    "winners": 40000,
+    "odds": 60
+   },
+   {
+    "prize": 100,
+    "winners": 240000,
+    "odds": 10
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": null
+ }
+}

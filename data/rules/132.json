@@ -1,0 +1,43 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/132-Big-Bonus-Blowout-WEB-Rules.pdf",
+ "fetched_at": 1792971467.8931947,
+ "sha256": "033c3c178e358338e6cddd0ec6f2659b0f00acd1a90d15066d5d00893e27bc3e",
+ "parsed": {
+  "tickets": 6240000,
+  "tiers": [
+   {
+    "prize": 550,
+    "winners": 1092,
+    "odds": 5714.29
+   },
+   {
+    "prize": 500,
+    "winners": 1560,
+    "odds": 4000
+   },
+   {
+    "prize": 200,
+    "winners": 6760,
+    "odds": 923.08
+   },
+   {
+    "prize": 150,
+    "winners": 5720,
+    "odds": 1090.91
+   },
+   {
+    "prize": 100,
+    "winners": 208000,
+    "odds": 30
+   },
+   {
+    "prize": 50,
+    "winners": 416000,
+    "odds": 15
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": 9.76
+ }
+}

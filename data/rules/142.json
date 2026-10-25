@@ -1,0 +1,58 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/142-24K-Gold-WEB-Rules.pdf",
+ "fetched_at": 1792971466.252044,
+ "sha256": "66a5ad8c2ccc243dd99981f98db6986e1c1735fb27dd8ed6c73dbd318c0c9d11",
+ "parsed": {
+  "tickets": 1200000,
+  "tiers": [
+   {
+    "prize": 500000,
+    "winners": 2,
+    "odds": 600000
+   },
+   {
+    "prize": 10000,
+    "winners": 300,
+    "odds": 4000
+   },
+   {
+    "prize": 1000,
+    "winners": 180,
+    "odds": 6666.67
+   },
+   {
+    "prize": 500,
+    "winners": 600,
+    "odds": 2000
+   },
+   {
+    "prize": 200,
+    "winners": 2800,
+    "odds": 428.57
+   },
+   {
+    "prize": 100,
+    "winners": 40000,
+    "odds": 30
+   },
+   {
+    "prize": 50,
+    "winners": 60000,
+    "odds": 20
+   },
+   {
+    "prize": 40,
+    "winners": 80000,
+    "odds": 15
+   },
+   {
+    "prize": 20,
+    "winners": 120000,
+    "odds": 10
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": 3.95
+ }
+}

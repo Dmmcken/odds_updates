@@ -1,0 +1,53 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/953-$5000000-Fortune-Rules-web.pdf",
+ "fetched_at": 1792971452.7763379,
+ "sha256": "40d0b1a91523f1c05a7f20cacc4cc7f9ccc45068a34576d847ad6bfb85242726",
+ "parsed": {
+  "tickets": 2160000,
+  "tiers": [
+   {
+    "prize": 3400000,
+    "winners": 2,
+    "odds": 1080000
+   },
+   {
+    "prize": 50000,
+    "winners": 18,
+    "odds": 120000
+   },
+   {
+    "prize": 5000,
+    "winners": 36,
+    "odds": 60000
+   },
+   {
+    "prize": 1000,
+    "winners": 450,
+    "odds": 4800
+   },
+   {
+    "prize": 500,
+    "winners": 22950,
+    "odds": 94.12
+   },
+   {
+    "prize": 200,
+    "winners": 72000,
+    "odds": 30
+   },
+   {
+    "prize": 100,
+    "winners": 36000,
+    "odds": 60
+   },
+   {
+    "prize": 75,
+    "winners": 648000,
+    "odds": 3.33
+   }
+  ],
+  "fund": 86405000,
+  "payout_pct": 80,
+  "total_odds": 2.77
+ }
+}

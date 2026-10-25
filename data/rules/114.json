@@ -1,0 +1,53 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/114-$600-Lions-Share-Rules-WEBpdf.pdf",
+ "fetched_at": 1792971462.7992284,
+ "sha256": "5d801800a9fcf17aab80d4905c0299e51f201be808a5f3ef1724d15e7fca27cd",
+ "parsed": {
+  "tickets": 2040000,
+  "tiers": [
+   {
+    "prize": 600,
+    "winners": 1500,
+    "odds": 1360
+   },
+   {
+    "prize": 200,
+    "winners": 2142,
+    "odds": 952.38
+   },
+   {
+    "prize": 100,
+    "winners": 34017,
+    "odds": 59.97
+   },
+   {
+    "prize": 50,
+    "winners": 34000,
+    "odds": 60
+   },
+   {
+    "prize": 30,
+    "winners": 34000,
+    "odds": 60
+   },
+   {
+    "prize": 20,
+    "winners": 68000,
+    "odds": 30
+   },
+   {
+    "prize": 15,
+    "winners": 204000,
+    "odds": 10
+   },
+   {
+    "prize": 10,
+    "winners": 272000,
+    "odds": 7.5
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": 3.14
+ }
+}

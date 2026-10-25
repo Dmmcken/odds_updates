@@ -1,0 +1,63 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/127-Jackson-WEB-Rules-9.26.25.pdf",
+ "fetched_at": 1792971506.0495238,
+ "sha256": "8f58aa61e9ce2776c0b5278f9c4ddb7b1bf0773e7a0dbe726e987a8cf5b15ba1",
+ "parsed": {
+  "tickets": 1200000,
+  "tiers": [
+   {
+    "prize": 500000,
+    "winners": 2,
+    "odds": 600000
+   },
+   {
+    "prize": 10000,
+    "winners": 15,
+    "odds": 80000
+   },
+   {
+    "prize": 1000,
+    "winners": 150,
+    "odds": 8000
+   },
+   {
+    "prize": 500,
+    "winners": 1500,
+    "odds": 800
+   },
+   {
+    "prize": 200,
+    "winners": 12600,
+    "odds": 95.24
+   },
+   {
+    "prize": 100,
+    "winners": 13750,
+    "odds": 87.27
+   },
+   {
+    "prize": 75,
+    "winners": 19980,
+    "odds": 60.06
+   },
+   {
+    "prize": 50,
+    "winners": 40000,
+    "odds": 30
+   },
+   {
+    "prize": 25,
+    "winners": 200000,
+    "odds": 6
+   },
+   {
+    "prize": 20,
+    "winners": 160000,
+    "odds": 7.5
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": 2.68
+ }
+}

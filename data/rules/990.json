@@ -1,0 +1,63 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/990-Wild-Cash-100X-Rules-WEB.pdf",
+ "fetched_at": 1792971552.763013,
+ "sha256": "439fce5098f0e96f387874836b5f9679ad186c3b10330e95b63c50d0f70f8601",
+ "parsed": {
+  "tickets": 2040000,
+  "tiers": [
+   {
+    "prize": 250000,
+    "winners": 3,
+    "odds": 680000
+   },
+   {
+    "prize": 1000,
+    "winners": 6,
+    "odds": 340000
+   },
+   {
+    "prize": 500,
+    "winners": 3060,
+    "odds": 666.67
+   },
+   {
+    "prize": 200,
+    "winners": 8840,
+    "odds": 230.77
+   },
+   {
+    "prize": 150,
+    "winners": 10200,
+    "odds": 200
+   },
+   {
+    "prize": 50,
+    "winners": 30770,
+    "odds": 66.3
+   },
+   {
+    "prize": 25,
+    "winners": 34000,
+    "odds": 60
+   },
+   {
+    "prize": 20,
+    "winners": 68000,
+    "odds": 30
+   },
+   {
+    "prize": 15,
+    "winners": 204000,
+    "odds": 10
+   },
+   {
+    "prize": 10,
+    "winners": 238000,
+    "odds": 8.57
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": 3.42
+ }
+}

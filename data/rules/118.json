@@ -1,0 +1,63 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/118-Win-Big-Rules-WEB.pdf",
+ "fetched_at": 1792971561.7165534,
+ "sha256": "5694e5fab272e64115274a005cd5bc419a8f14b2758a42d6bb4edfde6021359f",
+ "parsed": {
+  "tickets": 2040000,
+  "tiers": [
+   {
+    "prize": 200000,
+    "winners": 4,
+    "odds": 510000
+   },
+   {
+    "prize": 1000,
+    "winners": 6,
+    "odds": 340000
+   },
+   {
+    "prize": 500,
+    "winners": 1020,
+    "odds": 2000
+   },
+   {
+    "prize": 200,
+    "winners": 2380,
+    "odds": 857.14
+   },
+   {
+    "prize": 100,
+    "winners": 26401,
+    "odds": 77.27
+   },
+   {
+    "prize": 50,
+    "winners": 29750,
+    "odds": 68.57
+   },
+   {
+    "prize": 25,
+    "winners": 34000,
+    "odds": 60
+   },
+   {
+    "prize": 20,
+    "winners": 136000,
+    "odds": 15
+   },
+   {
+    "prize": 15,
+    "winners": 272000,
+    "odds": 7.5
+   },
+   {
+    "prize": 10,
+    "winners": 102000,
+    "odds": 20
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": 3.38
+ }
+}

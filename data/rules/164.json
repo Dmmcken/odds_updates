@@ -1,0 +1,53 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/164-Snow-Bank-WEB-rules.pdf",
+ "fetched_at": 1792971542.9836123,
+ "sha256": "c99ae67440d2f29806a5476537bb55908d4652ce14fe07b99c00f7f6b7b2f548",
+ "parsed": {
+  "tickets": 4320000,
+  "tiers": [
+   {
+    "prize": 2000,
+    "winners": 3,
+    "odds": 1440000
+   },
+   {
+    "prize": 500,
+    "winners": 197,
+    "odds": 21928.93
+   },
+   {
+    "prize": 40,
+    "winners": 4230,
+    "odds": 1021.28
+   },
+   {
+    "prize": 15,
+    "winners": 14400,
+    "odds": 300
+   },
+   {
+    "prize": 10,
+    "winners": 57600,
+    "odds": 75
+   },
+   {
+    "prize": 5,
+    "winners": 129600,
+    "odds": 33.33
+   },
+   {
+    "prize": 2,
+    "winners": 273600,
+    "odds": 15.79
+   },
+   {
+    "prize": 1,
+    "winners": 417600,
+    "odds": 10.34
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": 4.81
+ }
+}

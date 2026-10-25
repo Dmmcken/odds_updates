@@ -1,0 +1,28 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/973-$50-$100-$500-Blowout-Rules.-webpdf.pdf",
+ "fetched_at": 1792971454.3105083,
+ "sha256": "f0b8620c8024cb0ee476c3146747fbd241f4d6944a768f503e3e383b9a9f3f63",
+ "parsed": {
+  "tickets": 6240000,
+  "tiers": [
+   {
+    "prize": 500,
+    "winners": 16328,
+    "odds": 382.17
+   },
+   {
+    "prize": 100,
+    "winners": 104000,
+    "odds": 60
+   },
+   {
+    "prize": 50,
+    "winners": 520000,
+    "odds": 12
+   }
+  ],
+  "fund": 44564000,
+  "payout_pct": 71.42,
+  "total_odds": 9.75
+ }
+}

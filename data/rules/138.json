@@ -1,0 +1,53 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/138-Emerald-10s-WEB-Rules.pdf",
+ "fetched_at": 1792971491.235611,
+ "sha256": "4732f34f2c58b810a8c62756932570da9cfb518142cc0f5391851b8d061684dc",
+ "parsed": {
+  "tickets": 2040000,
+  "tiers": [
+   {
+    "prize": 150000,
+    "winners": 3,
+    "odds": 680000
+   },
+   {
+    "prize": 1000,
+    "winners": 12,
+    "odds": 170000
+   },
+   {
+    "prize": 500,
+    "winners": 2142,
+    "odds": 952.38
+   },
+   {
+    "prize": 200,
+    "winners": 1785,
+    "odds": 1142.86
+   },
+   {
+    "prize": 100,
+    "winners": 10540,
+    "odds": 193.55
+   },
+   {
+    "prize": 50,
+    "winners": 25500,
+    "odds": 80
+   },
+   {
+    "prize": 25,
+    "winners": 170000,
+    "odds": 12
+   },
+   {
+    "prize": 20,
+    "winners": 306000,
+    "odds": 6.67
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": 3.95
+ }
+}

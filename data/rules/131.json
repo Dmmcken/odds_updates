@@ -1,0 +1,53 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/131-Diamonds-WEB-Rules.pdf",
+ "fetched_at": 1792971484.8349674,
+ "sha256": "e802e5824ea0a336934c9572f8da310186d7acca11be0c30e3fbe52520c99883",
+ "parsed": {
+  "tickets": 4080000,
+  "tiers": [
+   {
+    "prize": 100000,
+    "winners": 4,
+    "odds": 1020000
+   },
+   {
+    "prize": 1000,
+    "winners": 136,
+    "odds": 30000
+   },
+   {
+    "prize": 500,
+    "winners": 680,
+    "odds": 6000
+   },
+   {
+    "prize": 200,
+    "winners": 6970,
+    "odds": 585.37
+   },
+   {
+    "prize": 100,
+    "winners": 10506,
+    "odds": 388.35
+   },
+   {
+    "prize": 50,
+    "winners": 31518,
+    "odds": 129.45
+   },
+   {
+    "prize": 20,
+    "winners": 163200,
+    "odds": 25
+   },
+   {
+    "prize": 10,
+    "winners": 612000,
+    "odds": 6.67
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": 4.95
+ }
+}

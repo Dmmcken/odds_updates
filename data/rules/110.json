@@ -1,0 +1,43 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/110-Instant-Millionaire-rules-WEB1.pdf",
+ "fetched_at": 1792971504.3324478,
+ "sha256": "99946346cdea70c795fc32180f6dc5507ea34e574d4bd97f76c84933a7a69a5d",
+ "parsed": {
+  "tickets": 2160000,
+  "tiers": [
+   {
+    "prize": 50000,
+    "winners": 36,
+    "odds": 60000
+   },
+   {
+    "prize": 5000,
+    "winners": 108,
+    "odds": 20000
+   },
+   {
+    "prize": 1000,
+    "winners": 216,
+    "odds": 10000
+   },
+   {
+    "prize": 500,
+    "winners": 18486,
+    "odds": 116.85
+   },
+   {
+    "prize": 200,
+    "winners": 63000,
+    "odds": 34.29
+   },
+   {
+    "prize": 100,
+    "winners": 540000,
+    "odds": 4
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": 3.47
+ }
+}

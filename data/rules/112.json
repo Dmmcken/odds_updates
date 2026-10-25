@@ -1,0 +1,58 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/112-Monopoly-50X-WEB-Rules.pdf",
+ "fetched_at": 1792971527.4508297,
+ "sha256": "04797dd7fffce666133b1ce089e94a12b60ef217c03a52079f9359d35af261a0",
+ "parsed": {
+  "tickets": 3000000,
+  "tiers": [
+   {
+    "prize": 100000,
+    "winners": 3,
+    "odds": 1000000
+   },
+   {
+    "prize": 1000,
+    "winners": 100,
+    "odds": 30000
+   },
+   {
+    "prize": 500,
+    "winners": 2875,
+    "odds": 1043.48
+   },
+   {
+    "prize": 200,
+    "winners": 1675,
+    "odds": 1791.04
+   },
+   {
+    "prize": 100,
+    "winners": 7375,
+    "odds": 406.78
+   },
+   {
+    "prize": 50,
+    "winners": 31800,
+    "odds": 94.34
+   },
+   {
+    "prize": 20,
+    "winners": 120000,
+    "odds": 25
+   },
+   {
+    "prize": 10,
+    "winners": 180000,
+    "odds": 16.67
+   },
+   {
+    "prize": 5,
+    "winners": 360000,
+    "odds": 8.33
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": 4.26
+ }
+}

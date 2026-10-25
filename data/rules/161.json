@@ -1,0 +1,63 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/161-NL-Christmas-Vacation-WEB-rules.pdf",
+ "fetched_at": 1792971530.9668887,
+ "sha256": "d84571911ce7143e077384715c794d4d997c07c8736136eba0e8ddd84537b443",
+ "parsed": {
+  "tickets": 2040000,
+  "tiers": [
+   {
+    "prize": 100000,
+    "winners": 3,
+    "odds": 680000
+   },
+   {
+    "prize": 1000,
+    "winners": 51,
+    "odds": 40000
+   },
+   {
+    "prize": 500,
+    "winners": 51,
+    "odds": 40000
+   },
+   {
+    "prize": 200,
+    "winners": 510,
+    "odds": 4000
+   },
+   {
+    "prize": 100,
+    "winners": 4913,
+    "odds": 415.22
+   },
+   {
+    "prize": 50,
+    "winners": 35700,
+    "odds": 57.14
+   },
+   {
+    "prize": 20,
+    "winners": 20400,
+    "odds": 100
+   },
+   {
+    "prize": 15,
+    "winners": 61200,
+    "odds": 33.33
+   },
+   {
+    "prize": 10,
+    "winners": 163200,
+    "odds": 12.5
+   },
+   {
+    "prize": 5,
+    "winners": 285600,
+    "odds": 7.14
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": 3.57
+ }
+}

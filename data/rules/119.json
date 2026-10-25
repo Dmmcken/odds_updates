@@ -1,0 +1,63 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/119-Hot-Money-Multiplier-Rules-WEB.pdf",
+ "fetched_at": 1792971502.5890946,
+ "sha256": "169db7e1756e0b9b3d92055d1619f0dd9d807580616a09d75d6c5a98cecae559",
+ "parsed": {
+  "tickets": 1200000,
+  "tiers": [
+   {
+    "prize": 500000,
+    "winners": 2,
+    "odds": 600000
+   },
+   {
+    "prize": 10000,
+    "winners": 15,
+    "odds": 80000
+   },
+   {
+    "prize": 1000,
+    "winners": 150,
+    "odds": 8000
+   },
+   {
+    "prize": 500,
+    "winners": 3300,
+    "odds": 363.64
+   },
+   {
+    "prize": 250,
+    "winners": 7450,
+    "odds": 161.07
+   },
+   {
+    "prize": 100,
+    "winners": 23780,
+    "odds": 50.46
+   },
+   {
+    "prize": 75,
+    "winners": 50000,
+    "odds": 24
+   },
+   {
+    "prize": 50,
+    "winners": 50000,
+    "odds": 24
+   },
+   {
+    "prize": 25,
+    "winners": 40000,
+    "odds": 30
+   },
+   {
+    "prize": 20,
+    "winners": 160000,
+    "odds": 7.5
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": 3.59
+ }
+}

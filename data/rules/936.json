@@ -1,0 +1,68 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/936-Mood-Money-General-Rules.pdf",
+ "fetched_at": 1792971529.2384846,
+ "sha256": "551e83fcc483f091b111dadd95641c9174364cbc5aceb0b121617e0afbd21d8b",
+ "parsed": {
+  "tickets": 3000000,
+  "tiers": [
+   {
+    "prize": 60000,
+    "winners": 4,
+    "odds": 750000
+   },
+   {
+    "prize": 600,
+    "winners": 100,
+    "odds": 30000
+   },
+   {
+    "prize": 300,
+    "winners": 2400,
+    "odds": 1250
+   },
+   {
+    "prize": 100,
+    "winners": 15025,
+    "odds": 199.67
+   },
+   {
+    "prize": 60,
+    "winners": 22500,
+    "odds": 133.33
+   },
+   {
+    "prize": 30,
+    "winners": 7500,
+    "odds": 400
+   },
+   {
+    "prize": 20,
+    "winners": 60000,
+    "odds": 50
+   },
+   {
+    "prize": 15,
+    "winners": 60000,
+    "odds": 50
+   },
+   {
+    "prize": 10,
+    "winners": 150000,
+    "odds": 20
+   },
+   {
+    "prize": 7,
+    "winners": 120000,
+    "odds": 25
+   },
+   {
+    "prize": 5,
+    "winners": 390000,
+    "odds": 7.69
+   }
+  ],
+  "fund": 10487500,
+  "payout_pct": 69.92,
+  "total_odds": 3.63
+ }
+}

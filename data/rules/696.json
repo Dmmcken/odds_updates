@@ -1,0 +1,63 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/696-Wild-8s-Rules-web.pdf",
+ "fetched_at": 1792971551.0912726,
+ "sha256": "a743f634108b88f4c30ca5c65494f2b4aa058a3ee976e7bffb968706d3356295",
+ "parsed": {
+  "tickets": 9120000,
+  "tiers": [
+   {
+    "prize": 8000,
+    "winners": 18,
+    "odds": 506666.67
+   },
+   {
+    "prize": 100,
+    "winners": 2014,
+    "odds": 4528.3
+   },
+   {
+    "prize": 40,
+    "winners": 11742,
+    "odds": 776.7
+   },
+   {
+    "prize": 20,
+    "winners": 30400,
+    "odds": 300
+   },
+   {
+    "prize": 12,
+    "winners": 30400,
+    "odds": 300
+   },
+   {
+    "prize": 6,
+    "winners": 152000,
+    "odds": 60
+   },
+   {
+    "prize": 4,
+    "winners": 182400,
+    "odds": 50
+   },
+   {
+    "prize": 3,
+    "winners": 121600,
+    "odds": 75
+   },
+   {
+    "prize": 2,
+    "winners": 547200,
+    "odds": 16.67
+   },
+   {
+    "prize": 1,
+    "winners": 881600,
+    "odds": 10.34
+   }
+  ],
+  "fund": 5770280,
+  "payout_pct": 63.27,
+  "total_odds": 4.65
+ }
+}

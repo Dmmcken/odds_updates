@@ -1,0 +1,63 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/997-Mega-Cash-Rules-WEB.pdf",
+ "fetched_at": 1792971519.2210507,
+ "sha256": "50212c4924b02e2d04f5c8d043db62bc97a2c99a5ca83c5aeaf37f2a25402b39",
+ "parsed": {
+  "tickets": 1200000,
+  "tiers": [
+   {
+    "prize": 670000,
+    "winners": 4,
+    "odds": 300000
+   },
+   {
+    "prize": 5000,
+    "winners": 60,
+    "odds": 20000
+   },
+   {
+    "prize": 1000,
+    "winners": 300,
+    "odds": 4000
+   },
+   {
+    "prize": 500,
+    "winners": 2230,
+    "odds": 538.12
+   },
+   {
+    "prize": 250,
+    "winners": 5100,
+    "odds": 235.29
+   },
+   {
+    "prize": 100,
+    "winners": 29000,
+    "odds": 41.38
+   },
+   {
+    "prize": 50,
+    "winners": 35000,
+    "odds": 34.29
+   },
+   {
+    "prize": 30,
+    "winners": 30000,
+    "odds": 40
+   },
+   {
+    "prize": 25,
+    "winners": 160000,
+    "odds": 7.5
+   },
+   {
+    "prize": 20,
+    "winners": 120000,
+    "odds": 10
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": 3.14
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "url": "https://www.kylottery.com/export/kylmod/galleries/documents/KYLottery_ScratchOffRules/117-Strike-It-Rich-Rules-WEB.pdf",
+ "fetched_at": 1792971544.7933285,
+ "sha256": "0dc16cbb5c05352d67b36c4bbf8143462ccfdad57af94828ef822a51d514c265",
+ "parsed": {
+  "tickets": 4080000,
+  "tiers": [
+   {
+    "prize": 75000,
+    "winners": 4,
+    "odds": 1020000
+   },
+   {
+    "prize": 1000,
+    "winners": 204,
+    "odds": 20000
+   },
+   {
+    "prize": 500,
+    "winners": 408,
+    "odds": 10000
+   },
+   {
+    "prize": 200,
+    "winners": 6970,
+    "odds": 585.37
+   },
+   {
+    "prize": 100,
+    "winners": 11696,
+    "odds": 348.84
+   },
+   {
+    "prize": 50,
+    "winners": 32470,
+    "odds": 125.65
+   },
+   {
+    "prize": 20,
+    "winners": 122400,
+    "odds": 33.33
+   },
+   {
+    "prize": 10,
+    "winners": 448800,
+    "odds": 9.09
+   },
+   {
+    "prize": 5,
+    "winners": 489600,
+    "odds": 8.33
+   }
+  ],
+  "fund": null,
+  "payout_pct": null,
+  "total_odds": 3.67
+ }
+}
